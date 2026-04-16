@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="457e253e-2f30-4d13-9872-e0994bb3e556" name="Changes" comment="done with first video now second - makemore">
+    <list default="true" id="457e253e-2f30-4d13-9872-e0994bb3e556" name="Changes" comment="second video done">
+      <change afterPath="$PROJECT_DIR$/makemore-MLP-generator.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/makemore-bigram-generator.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/makemore-bigram-generator.ipynb" afterDir="false" />
     </list>
@@ -134,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775844513336</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="second video done">
+      <option name="closed" value="true" />
+      <created>1776282103854</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776282103854</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,7 +172,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="done with first video now second - makemore" />
-    <option name="LAST_COMMIT_MESSAGE" value="done with first video now second - makemore" />
+    <MESSAGE value="second video done" />
+    <option name="LAST_COMMIT_MESSAGE" value="second video done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
