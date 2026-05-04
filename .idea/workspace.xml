@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="457e253e-2f30-4d13-9872-e0994bb3e556" name="Changes" comment="third video done">
-      <change afterPath="$PROJECT_DIR$/makemore-MLP-manual-backprop.ipynb" afterDir="false" />
+    <list default="true" id="457e253e-2f30-4d13-9872-e0994bb3e556" name="Changes" comment="halfway done one 4th video">
+      <change afterPath="$PROJECT_DIR$/first-nn-pytorch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/makemore-WaveNet.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/makemore-MLP-generator.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/makemore-MLP-generator.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makemore-MLP-manual-backprop.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/makemore-MLP-manual-backprop.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -83,7 +84,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/FoxFi/PycharmProjects/AI-ML_Python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;discord-application&quot;,
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
 }</component>
@@ -151,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776368116064</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="halfway done one 4th video">
+      <option name="closed" value="true" />
+      <created>1777480795986</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1777480795986</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,7 +191,8 @@
     <MESSAGE value="done with first video now second - makemore" />
     <MESSAGE value="second video done" />
     <MESSAGE value="third video done" />
-    <option name="LAST_COMMIT_MESSAGE" value="third video done" />
+    <MESSAGE value="halfway done one 4th video" />
+    <option name="LAST_COMMIT_MESSAGE" value="halfway done one 4th video" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
